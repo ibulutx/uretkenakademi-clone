@@ -1,0 +1,47 @@
+nav {
+  margin-left: 15px;
+}
+
+.col-3 {
+  overflow-y: scroll;
+  height: 100vh;
+  padding: 30px;
+}
+.col-3 progress {
+  accent-color: green;
+}
+.col-3 li {
+  list-style-type: none;
+  font-size: 20px;
+  line-height: 50px;
+}
+.col-3 li a {
+  text-decoration: none;
+  color: black;
+}
+.col-3 li input {
+  accent-color: green;
+  width: 15px;
+  height: 15px;
+}
+.col-3 #text {
+  text-decoration: none;
+  color: palevioletred;
+}
+
+.col-9 {
+  padding: 5%;
+  text-align: center;
+}
+.col-9 nav {
+  float: right;
+  padding-right: 20px;
+}
+.col-9 nav li a:focus {
+  background-color: greenyellow;
+}
+.col-9 iframe {
+  width: 880px;
+  height: 400px;
+  margin: 20px;
+}/*# sourceMappingURL=style.css.map */

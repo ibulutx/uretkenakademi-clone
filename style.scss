@@ -1,0 +1,59 @@
+nav{
+    margin-left: 15px;
+    
+}
+.col-3{
+    overflow-y: scroll;
+    height: 100vh;
+    padding: 30px;
+    progress{
+        accent-color: green;
+    }
+   li{
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 50px;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    input{
+        accent-color: green;
+        width: 15px;
+        height: 15px;
+        
+    }
+    
+   }
+   #text{
+    text-decoration: none;
+    color: palevioletred;
+   }
+
+}
+
+.col-9{
+    nav{ 
+        float: right;
+        padding-right: 20px;
+        li{
+        a{ 
+            &:focus{
+            background-color: greenyellow;
+              }
+       
+        }}
+    }
+    padding: 5%;
+    text-align: center;
+    iframe{
+       
+        width: 880px;
+        height: 400px;
+        margin: 20px;
+    }
+
+    
+}
+
+
