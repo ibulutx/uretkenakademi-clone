@@ -1,1 +1,36 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7J-XrB8_-QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Üretken Akademi Clone
+
+Bu projemde üretken akademi sitesinde ders videoları izleme bölümünü kendim yapmaya çalıştım. 
+
+Bu projemde HTML SCSS JavaScript teknolojilerini kullandım.
+
+
+## Proje Youtube Linki
+
+Projeyi nasıl geliştirdiğimi anlattığım youtube videom:
+https://youtu.be/7J-XrB8_-QQ
+
+## Bilgisayarınızda Çalıştırın
+
+Projeyi klonlayın
+
+```bash
+  git clone https://github.com/ibulutx/uretkenakademi-clone.git
+```
+
+
+
+Gerekli paketleri yükleyin
+
+```bash
+  npm install
+```
+
+Sunucuyu çalıştırın
+
+```bash
+  npm run start
+```
+
+  
