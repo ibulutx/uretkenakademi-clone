@@ -9,7 +9,11 @@ Bu projemde HTML SCSS JavaScript teknolojilerini kullandım.
 ## Proje Youtube Linki
 
 Projeyi nasıl geliştirdiğimi anlattığım youtube videom:
-https://youtu.be/7J-XrB8_-QQ
+
+
+[![Video Linki](https://img.youtube.com/vi/7J-XrB8_-QQ/0.jpg)](https://www.youtube.com/watch?v=7J-XrB8_-QQ)
+
+
 
 ## Bilgisayarınızda Çalıştırın
 
